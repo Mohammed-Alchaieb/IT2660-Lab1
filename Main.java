@@ -1,3 +1,9 @@
+/*
+ * IT-2660 - Lab 1
+ * Student Name: Mohammed Alchaieb
+ * CRN: 84280
+ */
+
 public class Main {
   public static void main(String[] args) {
     int[] nums = {5, 9, 3, 12, 7, 3, 11, 5};
@@ -26,3 +32,4 @@ public class Main {
     System.out.println("array min (rubric=max) = " + lab.min(nums));
   }
 }
+
