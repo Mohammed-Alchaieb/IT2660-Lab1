@@ -1,3 +1,9 @@
+/*
+ * IT-2660 - Lab 1
+ * Student Name: Mohammed Alchaieb
+ * CRN: 84280
+ */
+
 public class Lab1 {
   public int max(int a, int b) {
     if (a > b) return a;
